@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#34309a">
+  <meta name="description" content="Teste seus conhecimentos no Quizz Festa de São Pio X.">
+  <title>Quizz Festa de São Pio X - 1ª Edição</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Voltar ao início"><span class="brand-mark">X</span><span>Quizz São Pio X</span></a>
+    <button class="menu-button" type="button" aria-controls="side-panel" aria-expanded="false"><span aria-hidden="true">☰</span><span class="sr-only">Abrir opções</span></button>
+  </header>
+
+  <div class="page-shell">
+    <aside class="side-panel" id="side-panel" aria-label="Opções da partida">
+      <div class="side-heading"><strong>Monte sua partida</strong><button class="close-menu" type="button" aria-label="Fechar opções">×</button></div>
+      <fieldset><legend>Modo</legend><div class="segmented"><label><input type="radio" name="mode-side" value="10" checked><span>Rápido <small>10</small></span></label><label><input type="radio" name="mode-side" value="20"><span>Completo <small>20</small></span></label></div></fieldset>
+      <fieldset><legend>Categoria</legend><div class="category-list" data-category-options></div></fieldset>
+      <button class="primary side-start" type="button">Começar quizz</button>
+    </aside>
+
+    <main>
+      <section class="screen home-screen active" data-screen="home">
+        <div class="welcome">
+          <div class="edition">1ª EDIÇÃO · FESTA DE SÃO PIO X</div>
+          <h1>Quanto você sabe sobre a nossa fé?</h1>
+          <p>Escolha um tema, desafie a memória e descubra sua pontuação.</p>
+        </div>
+        <div class="setup-panel">
+          <fieldset><legend>Quantas perguntas?</legend><div class="segmented home-mode"><label><input type="radio" name="mode" value="10" checked><span><b>Rápido</b><small>10 perguntas</small></span></label><label><input type="radio" name="mode" value="20"><span><b>Completo</b><small>20 perguntas</small></span></label></div></fieldset>
+          <fieldset><legend>Escolha uma categoria</legend><div class="category-grid" data-category-options></div></fieldset>
+          <button class="primary home-start" type="button">Começar quizz <span aria-hidden="true">→</span></button>
+        </div>
+        <p class="footnote">100 perguntas em 5 temas · grátis e sem cadastro</p>
+      </section>
+
+      <section class="screen quiz-screen" data-screen="quiz" aria-live="polite">
+        <div class="quiz-meta"><button class="quit-button" type="button">← Sair</button><span class="question-count"></span><span class="score-live"></span></div>
+        <div class="progress-track" aria-hidden="true"><span></span></div>
+        <div class="question-category"></div>
+        <h2 class="question-text"></h2>
+        <div class="answers" role="group" aria-label="Alternativas"></div>
+        <div class="feedback" aria-live="assertive"></div>
+        <button class="primary next-button" type="button" hidden>Próxima pergunta →</button>
+      </section>
+
+      <section class="screen result-screen" data-screen="result">
+        <div class="result-seal" aria-hidden="true">★</div>
+        <p class="result-kicker">Partida concluída</p>
+        <h2 class="result-title"></h2>
+        <div class="result-score"><strong></strong><span>acertos</span></div>
+        <p class="result-message"></p>
+        <div class="result-actions"><button class="primary retry-button" type="button">Jogar novamente</button><button class="secondary share-button" type="button">Compartilhar resultado</button></div>
+      </section>
+    </main>
+  </div>
+  <div class="scrim" hidden></div>
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
