@@ -11,22 +11,14 @@
 <body>
   <header class="topbar">
     <a class="brand" href="#" aria-label="Voltar ao início"><span class="brand-mark">X</span><span>Quizz São Pio X</span></a>
-    <button class="menu-button" type="button" aria-controls="side-panel" aria-expanded="false"><span aria-hidden="true">☰</span><span class="sr-only">Abrir opções</span></button>
   </header>
 
   <div class="page-shell">
-    <aside class="side-panel" id="side-panel" aria-label="Opções da partida">
-      <div class="side-heading"><strong>Monte sua partida</strong><button class="close-menu" type="button" aria-label="Fechar opções">×</button></div>
-      <fieldset><legend>Modo</legend><div class="segmented"><label><input type="radio" name="mode-side" value="10" checked><span>Rápido <small>10</small></span></label><label><input type="radio" name="mode-side" value="20"><span>Completo <small>20</small></span></label></div></fieldset>
-      <fieldset><legend>Categoria</legend><div class="category-list" data-category-options></div></fieldset>
-      <button class="primary side-start" type="button">Começar quizz</button>
-    </aside>
-
     <main>
       <section class="screen home-screen active" data-screen="home">
         <div class="welcome">
           <div class="edition">1ª EDIÇÃO · FESTA DE SÃO PIO X</div>
-          <h1>Quanto você sabe sobre a nossa fé?</h1>
+          <h1>Conhecimento, tradição e fé</h1>
           <p>Escolha um tema, desafie a memória e descubra sua pontuação.</p>
         </div>
         <div class="setup-panel">
@@ -57,7 +49,6 @@
       </section>
     </main>
   </div>
-  <div class="scrim" hidden></div>
   <script src="questions.js"></script>
   <script src="app.js"></script>
 </body>
