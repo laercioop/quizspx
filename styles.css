@@ -50,6 +50,7 @@ button {
   padding: 0 max(20px, calc((100vw - 1060px) / 2));
   display: flex;
   align-items: center;
+  justify-content: center;
   background: var(--primary);
   color: white;
 }
