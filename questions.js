@@ -6,9 +6,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "Batismo, Confirmação, Eucaristia, Penitência, Unção dos Enfermos, Ordem e Matrimônio.",
     "options": [
       "Batismo, Confirmação, Eucaristia, Penitência, Unção dos Enfermos, Ordem e Matrimônio.",
-      "Batismo, Eucaristia, Penitência, Ordem, Matrimônio, Exorcismo e Consagração",
-      "Batismo, Crisma, Eucaristia, Confissão, Viático, Ordem e Profissão religiosa",
-      "Batismo, Confirmação, Eucaristia, Penitência, Unção, Votos e Matrimônio"
+      "Batismo, Eucaristia, Penitência, Unção dos Enfermos, Ordem, Matrimônio e Bênção.",
+      "Batismo, Confirmação, Eucaristia, Penitência, Ordem, Matrimônio e Profissão religiosa.",
+      "Batismo, Confirmação, Eucaristia, Penitência, Unção dos Enfermos, Exorcismo e Matrimônio."
     ]
   },
   {
@@ -18,9 +18,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "Fé, esperança e caridade.",
     "options": [
       "Fé, esperança e caridade.",
-      "Fé, prudência e justiça",
-      "Esperança, fortaleza e temperança",
-      "Fé, humildade e obediência"
+      "Fé, esperança e temperança.",
+      "Esperança, justiça e fortaleza.",
+      "Fé, prudência e caridade."
     ]
   },
   {
@@ -30,9 +30,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "Prudência, justiça, fortaleza e temperança.",
     "options": [
       "Prudência, justiça, fortaleza e temperança.",
-      "Fé, esperança, caridade e prudência",
-      "Justiça, humildade, obediência e castidade",
-      "Sabedoria, entendimento, conselho e fortaleza"
+      "Fé, esperança, caridade e prudência.",
+      "Prudência, obediência, pobreza e castidade.",
+      "Sabedoria, justiça, fortaleza e piedade."
     ]
   },
   {
@@ -42,9 +42,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "Matéria grave, plena consciência e pleno consentimento.",
     "options": [
       "Matéria grave, plena consciência e pleno consentimento.",
-      "Matéria grave, escândalo público e reincidência",
-      "Conhecimento da lei, intenção e consequência grave",
-      "Tentação grave, liberdade exterior e mau exemplo"
+      "Matéria grave, ignorância invencível e consentimento implícito.",
+      "Matéria grave, intenção habitual e escândalo público.",
+      "Matéria leve, plena consciência e consentimento parcial."
     ]
   },
   {
@@ -54,9 +54,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "O homem é uma criatura racional, composta de alma e corpo.",
     "options": [
       "O homem é uma criatura racional, composta de alma e corpo.",
-      "Um espírito criado que habita temporariamente um corpo",
-      "Uma criatura corporal dotada apenas de inteligência",
-      "Uma alma racional independente da matéria e do corpo"
+      "O homem é uma alma racional que apenas utiliza o corpo como instrumento.",
+      "O homem é uma criatura puramente espiritual dotada de razão e vontade.",
+      "O homem é um corpo animado cuja alma é apenas princípio de sensibilidade."
     ]
   },
   {
@@ -66,45 +66,45 @@ window.QUIZ_QUESTIONS = [
     "answer": "O pecado de Adão foi um pecado de soberba e de grave desobediência.",
     "options": [
       "O pecado de Adão foi um pecado de soberba e de grave desobediência.",
-      "Foi somente um erro de julgamento sem culpa grave",
-      "Foi principalmente um pecado de avareza e inveja",
-      "Foi apenas a transgressão material do jejum"
+      "O pecado de Adão foi apenas uma falta de prudência, sem desobediência grave.",
+      "O pecado de Adão foi principalmente um pecado de avareza e injustiça.",
+      "O pecado de Adão foi um pecado de inveja contra os anjos e de ira."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
     "question": "Quantas vontades há em Jesus Cristo e quais são?",
-    "answer": "Em Jesus Cristo há duas vontades, uma divina, outra humana.",
+    "answer": "Em Jesus Cristo há duas vontades, uma divina e outra humana.",
     "options": [
-      "Em Jesus Cristo há duas vontades, uma divina, outra humana.",
-      "Uma só vontade, inteiramente divina",
-      "Duas vontades humanas e uma divina",
-      "Uma vontade divina dividida entre as duas naturezas"
+      "Em Jesus Cristo há duas vontades, uma divina e outra humana.",
+      "Em Jesus Cristo há duas vontades, ambas humanas, unidas à Pessoa divina.",
+      "Em Jesus Cristo há uma só vontade, inteiramente divina.",
+      "Em Jesus Cristo há três vontades: divina, racional e sensível."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
     "question": "Onde foi crucificado Jesus Cristo?",
-    "answer": "Jesus Cristo foi crucificado sobre o monte Calvário.",
+    "answer": "Sobre o monte Calvário.",
     "options": [
-      "Jesus Cristo foi crucificado sobre o monte Calvário.",
-      "No monte das Oliveiras",
-      "No monte Tabor",
-      "No monte Sinai"
+      "Sobre o monte Calvário.",
+      "Sobre o monte Sinai.",
+      "Sobre o monte Tabor.",
+      "Sobre o monte das Oliveiras."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
     "question": "Quais são os membros vivos da Igreja?",
-    "answer": "Os membros vivos da Igreja são todos os justos ,isto é,aqueles que estão atualmente em graça de Deus",
+    "answer": "Todos os justos, isto é, aqueles que estão atualmente em graça de Deus.",
     "options": [
-      "Os membros vivos da Igreja são todos os justos ,isto é,aqueles que estão atualmente em graça de Deus",
-      "Todos os batizados, mesmo os separados da fé",
-      "Somente os membros da hierarquia e do clero",
-      "Apenas os fiéis que já receberam a Confirmação"
+      "Todos os justos, isto é, aqueles que estão atualmente em graça de Deus.",
+      "Todos os batizados, independentemente do estado de graça.",
+      "Somente os sacerdotes e religiosos em estado de graça.",
+      "Somente os fiéis que recebem a Comunhão todos os domingos."
     ]
   },
   {
@@ -114,57 +114,57 @@ window.QUIZ_QUESTIONS = [
     "answer": "A oração é uma elevação da alma a Deus.",
     "options": [
       "A oração é uma elevação da alma a Deus.",
-      "A repetição vocal de fórmulas sagradas",
-      "Um pedido dirigido exclusivamente aos santos",
-      "Uma meditação que dispensa a graça divina"
+      "A oração é qualquer reflexão interior sobre assuntos religiosos.",
+      "A oração é principalmente uma obra exterior de penitência oferecida a Deus.",
+      "A oração é somente a recitação vocal de fórmulas aprovadas pela Igreja."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
-    "question": "Na ave-maria, quais são as palavras de Santa Isabel?",
-    "answer": "Bendita sois vós entre as mulheres,bendito é o fruto do vosso ventre.",
+    "question": "Na Ave-Maria, quais são as palavras de Santa Isabel?",
+    "answer": "Bendita sois vós entre as mulheres, bendito é o fruto do vosso ventre.",
     "options": [
-      "Bendita sois vós entre as mulheres,bendito é o fruto do vosso ventre.",
-      "Ave Maria, cheia de graça, o Senhor é convosco",
-      "Santa Maria, Mãe de Deus, rogai por nós",
-      "Eis aqui a serva do Senhor; faça-se em mim"
+      "Bendita sois vós entre as mulheres, bendito é o fruto do vosso ventre.",
+      "Eis aqui a serva do Senhor; faça-se em mim segundo a vossa palavra.",
+      "Santa Maria, Mãe de Deus, rogai por nós pecadores.",
+      "Ave, cheia de graça, o Senhor é convosco."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
     "question": "Que é a detração ou murmuração?",
-    "answer": "A detração ou murmuração é um pecado que consiste em manifestar,sem justo motivo, os pecados ou defeitos alheios.",
+    "answer": "É o pecado que consiste em manifestar, sem justo motivo, os pecados ou defeitos alheios.",
     "options": [
-      "A detração ou murmuração é um pecado que consiste em manifestar,sem justo motivo, os pecados ou defeitos alheios.",
-      "Inventar publicamente uma falta inexistente do próximo",
-      "Julgar interiormente uma ação sem conhecer a intenção",
-      "Repreender com caridade um erro público diante do culpado"
+      "É o pecado que consiste em manifestar, sem justo motivo, os pecados ou defeitos alheios.",
+      "É corrigir em particular uma falta verdadeira por dever de caridade.",
+      "É discordar publicamente de uma opinião sem ofender a reputação de ninguém.",
+      "É atribuir falsamente a alguém uma culpa que ele não cometeu."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
-    "question": "Cite 4 obras de misericórdia corporais:",
-    "answer": "As obras de misericórdia corporais são:1ª Dar de comer a quem tem fome; 2ª Dar de beber a quem tem sede; 3ª Vestir os nus ;4ª Dar pousada aos peregrinos; 5ª Assistir aos enfermos;6ª Visitar os presos;7ª Enterrar os mortos.",
+    "question": "Qual alternativa contém quatro obras de misericórdia corporais?",
+    "answer": "Dar de comer a quem tem fome; dar de beber a quem tem sede; vestir os nus; dar pousada aos peregrinos.",
     "options": [
-      "As obras de misericórdia corporais são:1ª Dar de comer a quem tem fome; 2ª Dar de beber a quem tem sede; 3ª Vestir os nus ;4ª Dar pousada aos peregrinos; 5ª Assistir aos enfermos;6ª Visitar os presos;7ª Enterrar os mortos.",
-      "Ensinar os ignorantes; corrigir os que erram; consolar os aflitos; perdoar injúrias",
-      "Jejuar; rezar; peregrinar; dar esmolas",
-      "Batizar; confessar; comungar; confirmar"
+      "Dar de comer a quem tem fome; dar de beber a quem tem sede; vestir os nus; dar pousada aos peregrinos.",
+      "Consolar os aflitos; perdoar as injúrias; assistir aos enfermos; enterrar os mortos.",
+      "Dar bom conselho; ensinar os ignorantes; vestir os nus; visitar os presos.",
+      "Rogar por vivos e defuntos; dar de beber a quem tem sede; corrigir os que erram; visitar os presos."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
-    "question": "Cite 4 obras de misericórdia espirituais:",
-    "answer": "1ªDar bom conselho;2ºEnsinar os ignorantes;3ªCorrigir os que erram;4ªConsolar os aflitos;5ªPerdoar as injúrias;6ªSofrer com paciência as fraquezas do nosso próximo;7ªRogar a Deus por vivos e defuntos.",
+    "question": "Qual alternativa contém quatro obras de misericórdia espirituais?",
+    "answer": "Dar bom conselho; ensinar os ignorantes; corrigir os que erram; consolar os aflitos.",
     "options": [
-      "1ªDar bom conselho;2ºEnsinar os ignorantes;3ªCorrigir os que erram;4ªConsolar os aflitos;5ªPerdoar as injúrias;6ªSofrer com paciência as fraquezas do nosso próximo;7ªRogar a Deus por vivos e defuntos.",
-      "Dar alimento; dar bebida; vestir os nus; visitar os enfermos",
-      "Celebrar os sacramentos; pregar; catequizar; absolver",
-      "Oferecer incenso; fazer procissões; cantar salmos; peregrinar"
+      "Dar bom conselho; ensinar os ignorantes; corrigir os que erram; consolar os aflitos.",
+      "Ensinar os ignorantes; vestir os nus; rogar por vivos e defuntos; assistir aos enfermos.",
+      "Dar pousada aos peregrinos; corrigir os que erram; enterrar os mortos; sofrer com paciência as fraquezas do próximo.",
+      "Dar de comer a quem tem fome; consolar os aflitos; visitar os presos; perdoar as injúrias."
     ]
   },
   {
@@ -174,69 +174,69 @@ window.QUIZ_QUESTIONS = [
     "answer": "Sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus.",
     "options": [
       "Sabedoria, entendimento, conselho, fortaleza, ciência, piedade e temor de Deus.",
-      "Sabedoria, fé, esperança, caridade, prudência, justiça e temperança",
-      "Entendimento, conselho, fortaleza, humildade, castidade, pobreza e obediência",
-      "Ciência, piedade, temor, mansidão, paciência, alegria e paz"
+      "Sabedoria, prudência, conselho, justiça, ciência, piedade e caridade.",
+      "Entendimento, fortaleza, esperança, ciência, obediência, piedade e temor de Deus.",
+      "Sabedoria, entendimento, conselho, temperança, fé, piedade e temor de Deus."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
-    "question": "Cite 4 bem-aventuranças:",
-    "answer": "1a Bem-aventurados os pobres de espírito, porque deles é o reino do Céu; 2a Bem-aventurados os mansos, porque eles possuirão a terra;3a Bem-aventurados os que choram, porque serão consolados; 4a Bem-aventurados os que têm fome e sede de justiça, porque serão saciados;5a Bem-aventurados os que usam de misericórdia,porque alcançarão misericórdia;6ªBem-aventurados os puros de coração, porque verão a Deus;7ªBem-aventurados os pacíficos, porque serão chamados filhos de Deus;8ªBem-aventurados os que sofrem perseguição por amor da justiça,porque deles é o reino do Céu.",
+    "question": "Qual alternativa contém quatro bem-aventuranças?",
+    "answer": "Bem-aventurados os pobres de espírito; os mansos; os que choram; os que têm fome e sede de justiça.",
     "options": [
-      "1a Bem-aventurados os pobres de espírito, porque deles é o reino do Céu; 2a Bem-aventurados os mansos, porque eles possuirão a terra;3a Bem-aventurados os que choram, porque serão consolados; 4a Bem-aventurados os que têm fome e sede de justiça, porque serão saciados;5a Bem-aventurados os que usam de misericórdia,porque alcançarão misericórdia;6ªBem-aventurados os puros de coração, porque verão a Deus;7ªBem-aventurados os pacíficos, porque serão chamados filhos de Deus;8ªBem-aventurados os que sofrem perseguição por amor da justiça,porque deles é o reino do Céu.",
-      "Os ricos, os poderosos, os instruídos e os honrados",
-      "Os que nunca sofrem, os satisfeitos, os fortes e os famosos",
-      "Os prudentes, os silenciosos, os solitários e os austeros"
+      "Bem-aventurados os pobres de espírito; os mansos; os que choram; os que têm fome e sede de justiça.",
+      "Bem-aventurados os prudentes; os fortes; os obedientes; os que guardam silêncio.",
+      "Bem-aventurados os ricos generosos; os sábios; os poderosos; os que não sofrem perseguição.",
+      "Bem-aventurados os penitentes; os estudiosos; os solitários; os que nunca são tentados."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
     "question": "Por que Jesus Cristo quis esperar até ao terceiro dia para ressuscitar?",
-    "answer": "Jesus Cristo quis demorar até o terceiro dia para ressuscitar,para mostrar de modo insofismável, que verdadeiramente tinha morrido.",
+    "answer": "Para mostrar de modo insofismável que verdadeiramente tinha morrido.",
     "options": [
-      "Jesus Cristo quis demorar até o terceiro dia para ressuscitar,para mostrar de modo insofismável, que verdadeiramente tinha morrido.",
-      "Para cumprir literalmente quarenta horas no sepulcro",
-      "Porque sua alma precisava purificar-se antes de voltar ao corpo",
-      "Para que os discípulos pudessem completar os ritos funerários"
+      "Para mostrar de modo insofismável que verdadeiramente tinha morrido.",
+      "Para cumprir um período ritual obrigatório imposto aos mortos pela Lei mosaica.",
+      "Porque sua alma permaneceu inconsciente até o fim do terceiro dia.",
+      "Para que os Apóstolos elegessem primeiro um sucessor para Judas."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
-    "question": "Qual é o maior de todos os Sacramentos? Por quê?",
-    "answer": "O maior de todos os Sacramentos é o Sacramento da Eucaristia,porque contém não só a graça, mas também ao mesmo Jesus Cristo, autor da graça e dos Sacramentos.",
+    "question": "Qual é o maior de todos os Sacramentos e por quê?",
+    "answer": "A Eucaristia, porque contém não só a graça, mas o próprio Jesus Cristo, autor da graça e dos Sacramentos.",
     "options": [
-      "O maior de todos os Sacramentos é o Sacramento da Eucaristia,porque contém não só a graça, mas também ao mesmo Jesus Cristo, autor da graça e dos Sacramentos.",
-      "O Batismo, porque apaga todo pecado e abre a Igreja",
-      "A Ordem, porque torna possível a administração dos demais",
-      "A Penitência, porque restitui a graça perdida"
+      "A Eucaristia, porque contém não só a graça, mas o próprio Jesus Cristo, autor da graça e dos Sacramentos.",
+      "O Batismo, porque é o primeiro Sacramento recebido e contém corporalmente Jesus Cristo.",
+      "A Confirmação, porque aperfeiçoa o Batismo e por isso contém em si todos os outros Sacramentos.",
+      "A Ordem, porque concede ao sacerdote todas as graças dos demais Sacramentos."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
     "question": "Quais são os conselhos evangélicos?",
-    "answer": "Os conselhos evangélicos são:pobreza voluntária,castidade perpétua e obediência inteira em tudo o que não seja pecado.",
+    "answer": "Pobreza voluntária, castidade perpétua e obediência inteira em tudo o que não seja pecado.",
     "options": [
-      "Os conselhos evangélicos são:pobreza voluntária,castidade perpétua e obediência inteira em tudo o que não seja pecado.",
-      "Oração contínua, jejum perpétuo e silêncio absoluto",
-      "Humildade, mansidão e caridade fraterna",
-      "Pobreza material, peregrinação e penitência pública"
+      "Pobreza voluntária, castidade perpétua e obediência inteira em tudo o que não seja pecado.",
+      "Jejum perpétuo, silêncio absoluto e peregrinação contínua.",
+      "Prudência, justiça e fortaleza em grau heroico.",
+      "Pobreza material, clausura obrigatória e abstinência completa de carne."
     ]
   },
   {
     "category": 0,
     "categoryName": "Catecismo",
     "question": "Que se entende pela palavra Sacramento?",
-    "answer": "Pela palavra Sacramento entende-se um sinal sensível,instituído por Jesus Cristo, para santificar as nossas almas.",
+    "answer": "Um sinal sensível, instituído por Jesus Cristo, para santificar as nossas almas.",
     "options": [
-      "Pela palavra Sacramento entende-se um sinal sensível,instituído por Jesus Cristo, para santificar as nossas almas.",
-      "Uma cerimônia da Igreja que recorda um fato da vida de Cristo",
-      "Um símbolo religioso criado pelos Apóstolos para ensinar a fé",
-      "Um sinal invisível da fé pessoal, sem matéria ou forma"
+      "Um sinal sensível, instituído por Jesus Cristo, para santificar as nossas almas.",
+      "Um símbolo criado pela Igreja para recordar acontecimentos da vida de Cristo.",
+      "Um rito exclusivamente exterior destinado a distinguir os fiéis dos não batizados.",
+      "Uma oração pública que produz graça apenas pela devoção de quem a recita."
     ]
   },
   {
@@ -246,9 +246,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "Santo Inácio de Loyola.",
     "options": [
       "Santo Inácio de Loyola.",
-      "Santa Teresinha do Menino Jesus.",
-      "Fernando de Bulhões.",
-      "São Bernardo."
+      "São Francisco Xavier.",
+      "São Filipe Néri.",
+      "São Caetano de Thiene."
     ]
   },
   {
@@ -258,9 +258,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "Santa Catarina de Sena.",
     "options": [
       "Santa Catarina de Sena.",
-      "São Bento.",
-      "São Januário.",
-      "São Gabriel da Virgem dolorosa."
+      "Santa Catarina de Gênova.",
+      "Santa Teresa d’Ávila.",
+      "Santa Brígida da Suécia."
     ]
   },
   {
@@ -270,21 +270,21 @@ window.QUIZ_QUESTIONS = [
     "answer": "São Bernardo.",
     "options": [
       "São Bernardo.",
-      "São Benedito.",
-      "Santa Teresinha do Menino Jesus.",
-      "Fernando de Bulhões."
+      "Santo Afonso Maria de Ligório.",
+      "São Boaventura.",
+      "São Luís Maria Grignion de Montfort."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
     "question": "Qual o nome do discípulo escolhido para ocupar o lugar de Judas?",
-    "answer": "São Matias",
+    "answer": "São Matias.",
     "options": [
-      "São Matias",
-      "Restaurar todas as coisas em Cristo.",
-      "São Bento.",
-      "São Januário."
+      "São Matias.",
+      "São Barnabé.",
+      "São Timóteo.",
+      "São Silas."
     ]
   },
   {
@@ -294,21 +294,21 @@ window.QUIZ_QUESTIONS = [
     "answer": "São Januário.",
     "options": [
       "São Januário.",
-      "Santo Inácio de Loyola.",
-      "São Benedito.",
-      "Santa Teresinha do Menino Jesus."
+      "São Nicolau.",
+      "São Brás.",
+      "São Lourenço."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
-    "question": "Qual o nome do rio onde foram jogadas as cinzas de Santa Joana D’arc?",
+    "question": "Qual o nome do rio onde foram jogadas as cinzas de Santa Joana d’Arc?",
     "answer": "Rio Sena.",
     "options": [
       "Rio Sena.",
-      "Santa Maria Madalena.",
-      "Restaurar todas as coisas em Cristo.",
-      "São Bento."
+      "Rio Loire.",
+      "Rio Garona.",
+      "Rio Ródano."
     ]
   },
   {
@@ -318,45 +318,45 @@ window.QUIZ_QUESTIONS = [
     "answer": "São Benedito.",
     "options": [
       "São Benedito.",
-      "São Pedro de Alcântara.",
-      "Santo Inácio de Loyola.",
-      "Rio Sena."
+      "São Lourenço de Brindes.",
+      "São Conrado de Parzham.",
+      "São Félix de Cantalício."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
     "question": "Quem foi o primeiro mártir?",
-    "answer": "Santo Estevão",
+    "answer": "Santo Estêvão.",
     "options": [
-      "Santo Estevão",
-      "São Bernardo.",
-      "Santa Maria Madalena.",
-      "Restaurar todas as coisas em Cristo."
+      "Santo Estêvão.",
+      "São Tiago Maior.",
+      "Santo Inácio de Antioquia.",
+      "São Lourenço."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
-    "question": "Qual a primeira testemunha da ressurreição citada nas Escrituras?",
+    "question": "Qual a primeira testemunha da Ressurreição citada nas Escrituras?",
     "answer": "Santa Maria Madalena.",
     "options": [
       "Santa Maria Madalena.",
-      "Santa Filomena.",
-      "São Pedro de Alcântara.",
-      "Santo Inácio de Loyola."
+      "Santa Maria de Cléofas.",
+      "Nossa Senhora.",
+      "Santa Marta."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
-    "question": "Qual santo, ao decidir pela vida religiosa disse: “Eu não vivia se não por um pouco de fumaça?”",
-    "answer": "São Gabriel da Virgem dolorosa.",
+    "question": "Qual santo, ao decidir pela vida religiosa, disse: “Eu não vivia senão por um pouco de fumaça”?",
+    "answer": "São Gabriel da Virgem Dolorosa.",
     "options": [
-      "São Gabriel da Virgem dolorosa.",
-      "Santa Gemma.",
-      "São Bernardo.",
-      "Santo Estevão"
+      "São Gabriel da Virgem Dolorosa.",
+      "São Geraldo Majella.",
+      "São Luís Gonzaga.",
+      "São Estanislau Kostka."
     ]
   },
   {
@@ -366,33 +366,33 @@ window.QUIZ_QUESTIONS = [
     "answer": "Santa Filomena.",
     "options": [
       "Santa Filomena.",
-      "São Januário.",
-      "São Gabriel da Virgem dolorosa.",
-      "São Pedro de Alcântara."
+      "Santa Cecília.",
+      "Santa Inês.",
+      "Santa Luzia."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
-    "question": "Qual santa foi a Roma pedir autorização ao papa para tornar-se carmelita?",
+    "question": "Qual santa foi a Roma pedir autorização ao Papa para tornar-se carmelita?",
     "answer": "Santa Teresinha do Menino Jesus.",
     "options": [
       "Santa Teresinha do Menino Jesus.",
-      "São Pedro",
-      "Santa Gemma.",
-      "São Bernardo."
+      "Santa Teresa Margarida do Coração de Jesus.",
+      "Santa Teresa d’Ávila.",
+      "Santa Isabel da Trindade."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
-    "question": "Segundo a tradição, quem disse a Nosso Senhor “Quo Vadis, Domine?”",
-    "answer": "São Pedro",
+    "question": "Segundo a tradição, quem disse a Nosso Senhor “Quo vadis, Domine?”",
+    "answer": "São Pedro.",
     "options": [
-      "São Pedro",
-      "São Francisco de Assis.",
-      "São Januário.",
-      "São Gabriel da Virgem dolorosa."
+      "São Pedro.",
+      "São Paulo.",
+      "São João Evangelista.",
+      "São Tiago Maior."
     ]
   },
   {
@@ -402,33 +402,33 @@ window.QUIZ_QUESTIONS = [
     "answer": "Restaurar todas as coisas em Cristo.",
     "options": [
       "Restaurar todas as coisas em Cristo.",
-      "São Benedito.",
-      "Santa Teresinha do Menino Jesus.",
-      "Santa Gemma."
+      "A verdade vos libertará.",
+      "Tudo por Jesus, nada sem Maria.",
+      "Para maior glória de Deus."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
     "question": "O que Santo Tomás respondeu quando Nosso Senhor lhe perguntou: “Que recompensa deseja pelo seu trabalho?”",
-    "answer": "“Nada além de Ti, Senhor”.",
+    "answer": "“Nada além de Ti, Senhor.”",
     "options": [
-      "“Nada além de Ti, Senhor”.",
-      "Restaurar todas as coisas em Cristo.",
-      "São Francisco de Assis.",
-      "São Januário."
+      "“Nada além de Ti, Senhor.”",
+      "“A paz da Igreja e a salvação de meus irmãos.”",
+      "“A sabedoria para conhecer todos os mistérios.”",
+      "“A conversão de todos os pecadores.”"
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
-    "question": "Qual santo franciscano foi conselheiro de Santa Teresa D’Ávila?",
+    "question": "Qual santo franciscano foi conselheiro de Santa Teresa d’Ávila?",
     "answer": "São Pedro de Alcântara.",
     "options": [
       "São Pedro de Alcântara.",
-      "Santa Catarina de Sena.",
-      "São Benedito.",
-      "Santa Teresinha do Menino Jesus."
+      "São João Capistrano.",
+      "São Boaventura.",
+      "São Bernardino de Sena."
     ]
   },
   {
@@ -438,21 +438,21 @@ window.QUIZ_QUESTIONS = [
     "answer": "Fernando de Bulhões.",
     "options": [
       "Fernando de Bulhões.",
-      "Santa Maria Madalena.",
-      "Restaurar todas as coisas em Cristo.",
-      "São Francisco de Assis."
+      "Antônio de Lisboa.",
+      "João de Bulhões.",
+      "Martinho de Pádua."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
-    "question": "Que santa estigmatizada conversava com seu anjo da Guarda?",
+    "question": "Que santa estigmatizada conversava com seu Anjo da Guarda?",
     "answer": "Santa Gemma.",
     "options": [
       "Santa Gemma.",
-      "São Pedro de Alcântara.",
-      "Santa Catarina de Sena.",
-      "São Benedito."
+      "Santa Ângela de Foligno.",
+      "Santa Verônica Giuliani.",
+      "Santa Margarida Maria Alacoque."
     ]
   },
   {
@@ -462,21 +462,21 @@ window.QUIZ_QUESTIONS = [
     "answer": "São Bento.",
     "options": [
       "São Bento.",
-      "São Matias",
-      "Santa Maria Madalena.",
-      "Restaurar todas as coisas em Cristo."
+      "São Mauro.",
+      "São Gregório Magno.",
+      "São Plácido."
     ]
   },
   {
     "category": 1,
     "categoryName": "Vida dos Santos",
-    "question": "Quem escreveu o cântico das criaturas?",
+    "question": "Quem escreveu o Cântico das Criaturas?",
     "answer": "São Francisco de Assis.",
     "options": [
       "São Francisco de Assis.",
-      "Santa Filomena.",
-      "São Pedro de Alcântara.",
-      "Santa Catarina de Sena."
+      "Santo Antônio de Pádua.",
+      "Jacopone da Todi.",
+      "São Boaventura."
     ]
   },
   {
@@ -486,105 +486,105 @@ window.QUIZ_QUESTIONS = [
     "answer": "Arianismo.",
     "options": [
       "Arianismo.",
-      "Henrique Coimbra, em 1500.",
-      "Rei Clóvis",
-      "O Concílio de Trento."
+      "Monofisismo.",
+      "Nestorianismo.",
+      "Pelagianismo."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Qual concílio pôs fim no grande cisma do ocidente?",
-    "answer": "Concílio de Constança (1414–1418)",
+    "question": "Qual concílio pôs fim ao Grande Cisma do Ocidente?",
+    "answer": "Concílio de Constança (1414–1418).",
     "options": [
-      "Concílio de Constança (1414–1418)",
-      "Gregório VII",
-      "Diocleciano.",
-      "Santa Catarina de Sena."
+      "Concílio de Constança (1414–1418).",
+      "Concílio de Basileia (1431–1449).",
+      "Concílio de Latrão IV (1215).",
+      "Concílio de Florença (1438–1445)."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Qual guerra iniciou-se em 1793 e tinha como lema: Por Deus e pelo Rei?",
-    "answer": "A guerra da Vendeia.",
+    "question": "Qual guerra iniciou-se em 1793 e tinha como lema “Por Deus e pelo Rei”?",
+    "answer": "A Guerra da Vendeia.",
     "options": [
-      "A guerra da Vendeia.",
-      "Bárbaros.",
-      "Henrique Coimbra, em 1500.",
-      "Rei Clóvis"
+      "A Guerra da Vendeia.",
+      "A Guerra dos Trinta Anos.",
+      "A Guerra dos Camisards.",
+      "A Guerra da Sucessão Espanhola."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Qual rainha da França participou da sétima cruzada negociando para libertar seu esposo?",
-    "answer": "Margarida da Provença",
+    "question": "Qual rainha da França participou da Sétima Cruzada, negociando para libertar seu esposo?",
+    "answer": "Margarida da Provença.",
     "options": [
-      "Margarida da Provença",
-      "Arianismo.",
-      "Gregório VII",
-      "Diocleciano."
+      "Margarida da Provença.",
+      "Branca de Castela.",
+      "Leonor da Aquitânia.",
+      "Isabel de Hainaut."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Quem foi o primeiro Rei Católico da França?",
-    "answer": "Rei Clóvis",
+    "question": "Quem foi o primeiro rei católico da França?",
+    "answer": "Rei Clóvis.",
     "options": [
-      "Rei Clóvis",
-      "A cartucha.",
-      "Bárbaros.",
-      "Henrique Coimbra, em 1500."
+      "Rei Clóvis.",
+      "Carlos Magno.",
+      "Pepino, o Breve.",
+      "Luís IX."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Qual movimento tinha entre seus objetivos a reconquista da terra santa e a defesa do ocidente contra os mulçumanos?",
-    "answer": "As Cruzadas",
+    "question": "Qual movimento tinha entre seus objetivos a reconquista da Terra Santa e a defesa do Ocidente contra os muçulmanos?",
+    "answer": "As Cruzadas.",
     "options": [
-      "As Cruzadas",
-      "São Tiago.",
-      "Arianismo.",
-      "Gregório VII"
+      "As Cruzadas.",
+      "A Reconquista Carolíngia.",
+      "A Liga de Cambrai.",
+      "A Querela das Investiduras."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Qual papa morreu em Salermo, tendo por últimas palavras \"Amei a justiça e detestei a iniqüidade. Por isso morro no exílio\".",
-    "answer": "Gregório VII",
+    "question": "Qual papa morreu em Salerno, tendo por últimas palavras “Amei a justiça e detestei a iniquidade. Por isso morro no exílio”?",
+    "answer": "Gregório VII.",
     "options": [
-      "Gregório VII",
-      "A guerra da Vendeia.",
-      "A cartucha.",
-      "Bárbaros."
+      "Gregório VII.",
+      "Pascoal II.",
+      "Inocêncio III.",
+      "Urbano II."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Qual papa sofreu um atentado, após ameaçar com a excomunhão, Felipe - o Belo?",
-    "answer": "Bonifácio VIII",
+    "question": "Qual papa sofreu um atentado após ameaçar com a excomunhão Filipe, o Belo?",
+    "answer": "Bonifácio VIII.",
     "options": [
-      "Bonifácio VIII",
-      "8 de dezembro de 1854.",
-      "São Tiago.",
-      "Arianismo."
+      "Bonifácio VIII.",
+      "Celestino V.",
+      "Inocêncio IV.",
+      "Clemente V."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "A que ordem se referia o Papa Inocêncio XI ao dizer: “Nunca foi reformada porque nunca foi deformada”",
-    "answer": "A cartucha.",
+    "question": "A que ordem se referia o Papa Inocêncio XI ao dizer: “Nunca foi reformada porque nunca foi deformada”?",
+    "answer": "A Cartuxa.",
     "options": [
-      "A cartucha.",
-      "Henrique VIII",
-      "A guerra da Vendeia.",
-      "Bonifácio VIII"
+      "A Cartuxa.",
+      "A Ordem Premonstratense.",
+      "A Ordem de Cluny.",
+      "A Ordem de Cister."
     ]
   },
   {
@@ -594,9 +594,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "O Concílio de Trento.",
     "options": [
       "O Concílio de Trento.",
-      "Rei Clóvis",
-      "8 de dezembro de 1854.",
-      "São Tiago."
+      "O Concílio de Basileia.",
+      "O Concílio de Constança.",
+      "O Concílio de Latrão V."
     ]
   },
   {
@@ -606,33 +606,33 @@ window.QUIZ_QUESTIONS = [
     "answer": "8 de dezembro de 1854.",
     "options": [
       "8 de dezembro de 1854.",
-      "313",
-      "Henrique VIII",
-      "A guerra da Vendeia."
+      "15 de agosto de 1854.",
+      "8 de dezembro de 1864.",
+      "1º de novembro de 1854."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Quem foi o imperador responsável pela era dos mártires, onde morreram Santa Inês e Santa Catarina de Alexandria?",
+    "question": "Quem foi o imperador responsável pela era dos mártires em que morreram Santa Inês e Santa Catarina de Alexandria?",
     "answer": "Diocleciano.",
     "options": [
       "Diocleciano.",
-      "Filioque.",
-      "Rei Clóvis",
-      "O Concílio de Trento."
+      "Décio.",
+      "Domiciano.",
+      "Nero."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
     "question": "Em que ano foi assinado o Edito de Milão?",
-    "answer": "313",
+    "answer": "313.",
     "options": [
-      "313",
-      "Gregório VII",
-      "Diocleciano.",
-      "Henrique VIII"
+      "313.",
+      "380.",
+      "325.",
+      "303."
     ]
   },
   {
@@ -642,21 +642,21 @@ window.QUIZ_QUESTIONS = [
     "answer": "Bárbaros.",
     "options": [
       "Bárbaros.",
-      "A ordem de São Bento.",
-      "Filioque.",
-      "Rei Clóvis"
+      "Gentios.",
+      "Peregrinos.",
+      "Federados."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
     "question": "Qual ordem religiosa desempenhou o trabalho de restauração da Europa a partir do século VI?",
-    "answer": "A ordem de São Bento.",
+    "answer": "A Ordem de São Bento.",
     "options": [
-      "A ordem de São Bento.",
-      "Concílio de Constança (1414–1418)",
-      "Gregório VII",
-      "Diocleciano."
+      "A Ordem de São Bento.",
+      "A Ordem dos Frades Menores.",
+      "A Ordem dos Pregadores.",
+      "A Ordem de Cister."
     ]
   },
   {
@@ -666,9 +666,9 @@ window.QUIZ_QUESTIONS = [
     "answer": "São Tiago.",
     "options": [
       "São Tiago.",
-      "A cartucha.",
-      "Bárbaros.",
-      "Filioque."
+      "São Filipe.",
+      "São André.",
+      "São Bartolomeu."
     ]
   },
   {
@@ -678,21 +678,21 @@ window.QUIZ_QUESTIONS = [
     "answer": "Santa Catarina de Sena.",
     "options": [
       "Santa Catarina de Sena.",
-      "São Tiago.",
-      "Concílio de Constança (1414–1418)",
-      "Gregório VII"
+      "Santa Brígida da Suécia.",
+      "Santa Catarina de Bolonha.",
+      "Santa Clara de Assis."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
     "question": "São Thomas More foi vítima de qual rei?",
-    "answer": "Henrique VIII",
+    "answer": "Henrique VIII.",
     "options": [
-      "Henrique VIII",
-      "Margarida da Provença",
-      "A cartucha.",
-      "Bárbaros."
+      "Henrique VIII.",
+      "Eduardo VI.",
+      "Henrique VII.",
+      "Ricardo III."
     ]
   },
   {
@@ -702,69 +702,69 @@ window.QUIZ_QUESTIONS = [
     "answer": "Henrique Coimbra, em 1500.",
     "options": [
       "Henrique Coimbra, em 1500.",
-      "8 de dezembro de 1854.",
-      "São Tiago.",
-      "Concílio de Constança (1414–1418)"
+      "Frei Vicente do Salvador, em 1502.",
+      "José de Anchieta, em 1554.",
+      "Manuel da Nóbrega, em 1549."
     ]
   },
   {
     "category": 2,
     "categoryName": "História",
-    "question": "Qual expressão foi inserida do credo para designar a procedência do Espírito Santo, do Pai e do Filho?",
+    "question": "Qual expressão foi inserida no Credo para designar a procedência do Espírito Santo, do Pai e do Filho?",
     "answer": "Filioque.",
     "options": [
       "Filioque.",
-      "Henrique VIII",
-      "Margarida da Provença",
-      "A cartucha."
+      "Consubstantialem.",
+      "Homoousios.",
+      "Theotokos."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Que dia ocorreu as primeiras sagrações episcopais da FSSPX?",
-    "answer": "29 de junho de 1988",
+    "question": "Que dia ocorreram as primeiras sagrações episcopais da FSSPX?",
+    "answer": "29 de junho de 1988.",
     "options": [
-      "29 de junho de 1988",
-      "Tradidi quod et accepi (“Transmiti aquilo que recebi”)",
-      "Dom Lourenço Fleichman, OSB.",
-      "6 bispos"
+      "29 de junho de 1988.",
+      "28 de junho de 1988.",
+      "1º de julho de 1988.",
+      "29 de junho de 1987."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Como se chamava a irmã de Dom Lefevre, que o ajudou a fundar as Irmãs da FSSPX?",
-    "answer": "Madre Marie-Gabriel",
+    "question": "Como se chamava a irmã de Dom Lefebvre que o ajudou a fundar as Irmãs da FSSPX?",
+    "answer": "Madre Marie-Gabriel.",
     "options": [
-      "Madre Marie-Gabriel",
-      "1 de julho",
-      "Dom Bernard Fellay",
-      "Dom Antônio de Castro Mayer."
+      "Madre Marie-Gabriel.",
+      "Madre Marie-Thérèse.",
+      "Madre Marie-Joseph.",
+      "Madre Marie-Bernard."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Nossa Senhora é padroeira das irmãs da FSSPX sob qual título?",
-    "answer": "Nossa Senhora da Compaixão (Nossa Senhora das Dores)",
+    "question": "Nossa Senhora é padroeira das Irmãs da FSSPX sob qual título?",
+    "answer": "Nossa Senhora da Compaixão (Nossa Senhora das Dores).",
     "options": [
-      "Nossa Senhora da Compaixão (Nossa Senhora das Dores)",
-      "29 de junho de 1988",
-      "Tradidi quod et accepi (“Transmiti aquilo que recebi”)",
-      "Dom Lourenço Fleichman, OSB."
+      "Nossa Senhora da Compaixão (Nossa Senhora das Dores).",
+      "Nossa Senhora do Rosário.",
+      "Nossa Senhora de Fátima.",
+      "Nossa Senhora do Perpétuo Socorro."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Qual o nome da confraria de acólitos da fraternidade?",
-    "answer": "Confraria Santo Estevão",
+    "question": "Qual o nome da confraria de acólitos da Fraternidade?",
+    "answer": "Confraria Santo Estêvão.",
     "options": [
-      "Confraria Santo Estevão",
-      "Padre Davide Pagliarani.",
-      "1 de julho",
-      "Dom Bernard Fellay"
+      "Confraria Santo Estêvão.",
+      "Confraria São Luís Gonzaga.",
+      "Confraria São Tarcísio.",
+      "Confraria São João Berchmans."
     ]
   },
   {
@@ -774,81 +774,81 @@ window.QUIZ_QUESTIONS = [
     "answer": "Dom Antônio de Castro Mayer.",
     "options": [
       "Dom Antônio de Castro Mayer.",
-      "Movimento da Juventude Católica Brasileira",
-      "29 de junho de 1988",
-      "Tradidi quod et accepi (“Transmiti aquilo que recebi”)"
+      "Dom Geraldo de Proença Sigaud.",
+      "Dom José Maurício da Rocha.",
+      "Dom Oscar de Oliveira."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "Qual o lema episcopal de Dom Galarreta?",
-    "answer": "Ommia per mariam (Tudo por Maria)",
+    "answer": "Omnia per Mariam (Tudo por Maria).",
     "options": [
-      "Ommia per mariam (Tudo por Maria)",
-      "Nossa Senhora da Compaixão (Nossa Senhora das Dores)",
-      "Padre Davide Pagliarani.",
-      "1 de julho"
+      "Omnia per Mariam (Tudo por Maria).",
+      "Instaurare omnia in Christo (Restaurar tudo em Cristo).",
+      "Per Mariam ad Jesum (Por Maria a Jesus).",
+      "Adveniat regnum tuum (Venha a nós o vosso reino)."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "Qual frase de São Paulo está inscrita no túmulo de Dom Lefebvre?",
-    "answer": "Tradidi quod et accepi (“Transmiti aquilo que recebi”)",
+    "answer": "Tradidi quod et accepi (“Transmiti aquilo que recebi”).",
     "options": [
-      "Tradidi quod et accepi (“Transmiti aquilo que recebi”)",
-      "exatamente 1 mês depois.",
-      "Movimento da Juventude Católica Brasileira",
-      "29 de junho de 1988"
+      "Tradidi quod et accepi (“Transmiti aquilo que recebi”).",
+      "Mihi vivere Christus est (“Para mim, viver é Cristo”).",
+      "Fides ex auditu (“A fé vem pelo ouvir”).",
+      "Bonum certamen certavi (“Combati o bom combate”)."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "Qual o nome do documentário sobre a vida de Dom Lefebvre?",
-    "answer": "Um Bispo na Tormenta",
+    "answer": "Um Bispo na Tormenta.",
     "options": [
-      "Um Bispo na Tormenta",
-      "São Venâncio",
-      "Nossa Senhora da Compaixão (Nossa Senhora das Dores)",
-      "Padre Davide Pagliarani."
+      "Um Bispo na Tormenta.",
+      "A Missão de um Arcebispo.",
+      "Sentinela da Tradição.",
+      "O Bispo de Ecône."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Quem é o atual Superior Geral da Fraternidade Sacerdotal São Pio X?",
+    "question": "Quem é o atual Superior Geral da Fraternidade Sacerdotal São Pio X, segundo o material?",
     "answer": "Padre Davide Pagliarani.",
     "options": [
       "Padre Davide Pagliarani.",
-      "Dom Antônio de Castro Mayer.",
-      "exatamente 1 mês depois.",
-      "Movimento da Juventude Católica Brasileira"
+      "Dom Bernard Fellay.",
+      "Padre Franz Schmidberger.",
+      "Dom Alfonso de Galarreta."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "Em 1968, Dom Lefebvre renunciou ao cargo de superior geral de qual congregação?",
-    "answer": "Os padres do Espírito Santo",
+    "answer": "Os Padres do Espírito Santo.",
     "options": [
-      "Os padres do Espírito Santo",
-      "Dom Bernard Tissier de Mallerais",
-      "São Venâncio",
-      "Nossa Senhora da Compaixão (Nossa Senhora das Dores)"
+      "Os Padres do Espírito Santo.",
+      "Os Padres de São Sulpício.",
+      "Os Missionários da África.",
+      "Os Oblatos de Maria Imaculada."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "Dom Castro Mayer faleceu quanto tempo depois de Dom Lefebvre?",
-    "answer": "exatamente 1 mês depois.",
+    "answer": "Exatamente 1 mês depois.",
     "options": [
-      "exatamente 1 mês depois.",
-      "Colégio São José",
-      "Dom Antônio de Castro Mayer.",
-      "Os padres do Espírito Santo"
+      "Exatamente 1 mês depois.",
+      "Exatamente 1 semana depois.",
+      "Cerca de 6 meses depois.",
+      "Exatamente 1 ano depois."
     ]
   },
   {
@@ -858,345 +858,345 @@ window.QUIZ_QUESTIONS = [
     "answer": "Dom Lourenço Fleichman, OSB.",
     "options": [
       "Dom Lourenço Fleichman, OSB.",
-      "Tradidi quod et accepi (“Transmiti aquilo que recebi”)",
-      "Dom Bernard Tissier de Mallerais",
-      "São Venâncio"
+      "Dom Gérard Calvet, OSB.",
+      "Padre João Batista de Almeida, OSB.",
+      "Dom Tomás de Aquino, OSB."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "Qual bispo da FSSPX faleceu em 2024?",
-    "answer": "Dom Bernard Tissier de Mallerais",
+    "answer": "Dom Bernard Tissier de Mallerais.",
     "options": [
-      "Dom Bernard Tissier de Mallerais",
-      "7h, 9hs,11h30 e às 18h",
-      "Colégio São José",
-      "Dom Antônio de Castro Mayer."
+      "Dom Bernard Tissier de Mallerais.",
+      "Dom Alfonso de Galarreta.",
+      "Dom Richard Williamson.",
+      "Dom Bernard Fellay."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Que dia ocorreram as sagrações de 2026?",
-    "answer": "1 de julho",
+    "question": "Que dia ocorreram as sagrações de 2026, segundo o material?",
+    "answer": "1º de julho.",
     "options": [
-      "1 de julho",
-      "Madre Marie-Gabriel",
-      "Tradidi quod et accepi (“Transmiti aquilo que recebi”)",
-      "Dom Lourenço Fleichman, OSB."
+      "1º de julho.",
+      "2 de julho.",
+      "29 de junho.",
+      "30 de junho."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Quais os horários das missas de domingo na Capela São Pio X, em São Paulo?",
-    "answer": "7h, 9hs,11h30 e às 18h",
+    "question": "Quais são os horários das missas de domingo na Capela São Pio X, em São Paulo, segundo o material?",
+    "answer": "7h, 9h, 11h30 e 18h.",
     "options": [
-      "7h, 9hs,11h30 e às 18h",
-      "Padre Davide Pagliarani.",
-      "1 de julho",
-      "Colégio São José"
+      "7h, 9h, 11h30 e 18h.",
+      "8h, 9h30, 11h30 e 18h30.",
+      "7h30, 9h30, 11h e 18h.",
+      "7h, 10h, 12h e 17h30."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "O que significa a sigla MJCB?",
-    "answer": "Movimento da Juventude Católica Brasileira",
+    "answer": "Movimento da Juventude Católica Brasileira.",
     "options": [
-      "Movimento da Juventude Católica Brasileira",
-      "6 bispos",
-      "Madre Marie-Gabriel",
-      "Tradidi quod et accepi (“Transmiti aquilo que recebi”)"
+      "Movimento da Juventude Católica Brasileira.",
+      "Movimento Juvenil Católico do Brasil.",
+      "Movimento Jovem da Cristandade Brasileira.",
+      "Missão da Juventude Cristã Brasileira."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Com quantos bispos conta atualmente a fraternidade?",
-    "answer": "6 bispos",
+    "question": "Com quantos bispos conta atualmente a Fraternidade, segundo o material?",
+    "answer": "6 bispos.",
     "options": [
-      "6 bispos",
-      "Confraria Santo Estevão",
-      "Padre Davide Pagliarani.",
-      "1 de julho"
+      "6 bispos.",
+      "5 bispos.",
+      "7 bispos.",
+      "4 bispos."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "Qual santo é o padroeiro do acampamento dos meninos?",
-    "answer": "São Venâncio",
+    "answer": "São Venâncio.",
     "options": [
-      "São Venâncio",
-      "exatamente 1 mês depois.",
-      "Movimento da Juventude Católica Brasileira",
-      "Madre Marie-Gabriel"
+      "São Venâncio.",
+      "São Luís Gonzaga.",
+      "São Domingos Sávio.",
+      "São Tarcísio."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
-    "question": "Quem foi eleito superior geral da fraternidade em 1994?",
-    "answer": "Dom Bernard Fellay",
+    "question": "Quem foi eleito Superior Geral da Fraternidade em 1994?",
+    "answer": "Dom Bernard Fellay.",
     "options": [
-      "Dom Bernard Fellay",
-      "São Venâncio",
-      "Confraria Santo Estevão",
-      "Padre Davide Pagliarani."
+      "Dom Bernard Fellay.",
+      "Dom Bernard Tissier de Mallerais.",
+      "Dom Alfonso de Galarreta.",
+      "Padre Franz Schmidberger."
     ]
   },
   {
     "category": 3,
     "categoryName": "FSSPX",
     "question": "Qual o nome do colégio da FSSPX em São Paulo?",
-    "answer": "Colégio São José",
+    "answer": "Colégio São José.",
     "options": [
-      "Colégio São José",
-      "Ommia per mariam (Tudo por Maria)",
-      "exatamente 1 mês depois.",
-      "Movimento da Juventude Católica Brasileira"
+      "Colégio São José.",
+      "Colégio Sagrada Família.",
+      "Colégio Santo Estêvão.",
+      "Colégio São Pio X."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Os espinhos dessa vida serão as flores da eternidade",
-    "answer": "São João Bosco",
+    "question": "Quem disse: “Os espinhos dessa vida serão as flores da eternidade”?",
+    "answer": "São João Bosco.",
     "options": [
-      "São João Bosco",
-      "Santo Antônio",
-      "São Francisco de Sales",
-      "São Pedro"
+      "São João Bosco.",
+      "São Francisco de Sales.",
+      "Santo Afonso Maria de Ligório.",
+      "São Filipe Néri."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Ó castidade, tu fazes os homens, semelhantes ao anjos",
-    "answer": "Santo Efrém",
+    "question": "Quem disse: “Ó castidade, tu fazes os homens semelhantes aos anjos”?",
+    "answer": "Santo Efrém.",
     "options": [
-      "Santo Efrém",
-      "Santa Teresa D’Ávila",
-      "Santa Catarina de Sena",
-      "Santa Teresa D’Ávila."
+      "Santo Efrém.",
+      "São João Crisóstomo.",
+      "São Jerônimo.",
+      "Santo Ambrósio."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Compreendi que o amor encerra todas as vocações",
-    "answer": "Santa Teresinha",
+    "question": "Quem disse: “Compreendi que o amor encerra todas as vocações”?",
+    "answer": "Santa Teresinha.",
     "options": [
-      "Santa Teresinha",
-      "Santo Efrém",
-      "São Bernardo.",
-      "São Bernardo"
+      "Santa Teresinha.",
+      "Santa Catarina de Sena.",
+      "Santa Isabel da Trindade.",
+      "Santa Teresa d’Ávila."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Dá-me mães verdadeiramente cristãs e eu lhe darei santos",
-    "answer": "São Pio X",
+    "question": "Quem disse: “Dá-me mães verdadeiramente cristãs e eu lhe darei santos”?",
+    "answer": "São Pio X.",
     "options": [
-      "São Pio X",
-      "Santa Joana D’arc",
-      "São Felipe Neri",
-      "São João Bosco"
+      "São Pio X.",
+      "São João Bosco.",
+      "São Francisco de Sales.",
+      "Santo Afonso Maria de Ligório."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Ainda não se louvou, exaltou, honrou, amou e serviu suficientemente a Maria Santíssima, pois muito mais louvor, respeito, amor e serviço Ela merece.",
-    "answer": "São Luís Maria Grignion de Montfort",
+    "question": "Quem disse: “Ainda não se louvou, exaltou, honrou, amou e serviu suficientemente a Maria Santíssima, pois muito mais louvor, respeito, amor e serviço Ela merece”?",
+    "answer": "São Luís Maria Grignion de Montfort.",
     "options": [
-      "São Luís Maria Grignion de Montfort",
-      "São Pedro",
-      "Santa Teresinha",
-      "Santo Agostinho"
+      "São Luís Maria Grignion de Montfort.",
+      "Santo Afonso Maria de Ligório.",
+      "São Maximiliano Kolbe.",
+      "São Bernardo."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Confie na bondade do Senhor, porque Ele jamais falta aos seus amigos.",
-    "answer": "Santa Teresa D’Ávila.",
+    "question": "Quem disse: “Confie na bondade do Senhor, porque Ele jamais falta aos seus amigos”?",
+    "answer": "Santa Teresa d’Ávila.",
     "options": [
-      "Santa Teresa D’Ávila.",
-      "São Luís Maria Grignion de Montfort",
-      "Monsenhor Lefebvre",
-      "Santo Tomás de Aquino"
+      "Santa Teresa d’Ávila.",
+      "Santa Margarida Maria Alacoque.",
+      "Santa Teresinha.",
+      "Santa Catarina de Sena."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "A vingança do verdadeiro católico é o perdão e a oração pela pessoa que nos ofende.",
-    "answer": "São João Bosco",
+    "question": "Quem disse: “A vingança do verdadeiro católico é o perdão e a oração pela pessoa que nos ofende”?",
+    "answer": "São João Bosco.",
     "options": [
-      "São João Bosco",
-      "São Bernardo",
-      "São Domingos Sávio",
-      "São Luís Maria Grignion de Montfort"
+      "São João Bosco.",
+      "São Filipe Néri.",
+      "São João Maria Vianney.",
+      "São Francisco de Sales."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Os pecados dos cristãos são cobertos de confusão maior que os dos judeus e dos pagãos.",
-    "answer": "Santo Antônio",
+    "question": "Quem disse: “Os pecados dos cristãos são cobertos de confusão maior que os dos judeus e dos pagãos”?",
+    "answer": "Santo Antônio.",
     "options": [
-      "Santo Antônio",
-      "São João Bosco",
-      "Santa Teresa D’Ávila.",
-      "São Francisco de Sales"
+      "Santo Antônio.",
+      "São João Crisóstomo.",
+      "São Vicente Ferrer.",
+      "São Bernardino de Sena."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "As chagas de Jesus Cristo ferem os corações mais duros e aquecem as almas mais frias.",
+    "question": "Quem disse: “As chagas de Jesus Cristo ferem os corações mais duros e aquecem as almas mais frias”?",
     "answer": "São Bernardo.",
     "options": [
       "São Bernardo.",
-      "Santo Agostinho",
-      "Santa Teresa D’Ávila",
-      "Santa Catarina de Sena"
+      "São Boaventura.",
+      "São Francisco de Assis.",
+      "Santo Afonso Maria de Ligório."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Tarde te amei, ó beleza tão antiga e tão nova.",
-    "answer": "Santo Agostinho",
+    "question": "Quem disse: “Tarde te amei, ó beleza tão antiga e tão nova”?",
+    "answer": "Santo Agostinho.",
     "options": [
-      "Santo Agostinho",
-      "Santo Tomás de Aquino",
-      "Santo Efrém",
-      "Santo Antônio"
+      "Santo Agostinho.",
+      "São Jerônimo.",
+      "São Gregório Magno.",
+      "Santo Ambrósio."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Em nome de Deus, os soldados vão lutar e Deus lhes dará a vitória.",
-    "answer": "Santa Joana D’arc",
+    "question": "Quem disse: “Em nome de Deus, os soldados vão lutar e Deus lhes dará a vitória”?",
+    "answer": "Santa Joana d’Arc.",
     "options": [
-      "Santa Joana D’arc",
-      "São Pio X",
-      "Santo Agostinho",
-      "São Felipe Neri"
+      "Santa Joana d’Arc.",
+      "Santa Genoveva.",
+      "Santa Catarina de Sena.",
+      "Santa Clotilde."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Se a minha obra é de Deus, Ele saberá conservá-la e servir ao bem da Igreja.",
-    "answer": "Monsenhor Lefebvre",
+    "question": "Quem disse: “Se a minha obra é de Deus, Ele saberá conservá-la e servir ao bem da Igreja”?",
+    "answer": "Monsenhor Lefebvre.",
     "options": [
-      "Monsenhor Lefebvre",
-      "São Francisco de Sales",
-      "São Pedro",
-      "Santa Teresinha"
+      "Monsenhor Lefebvre.",
+      "Dom Antônio de Castro Mayer.",
+      "Dom Bernard Fellay.",
+      "São Pio X."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Se Deus não vos livra mais depressa das suas imperfeições, é para fazê-lo com mais utilidade para vós e exercitar-vos por mais tempo na humildade.",
-    "answer": "São Francisco de Sales",
+    "question": "Quem disse: “Se Deus não vos livra mais depressa das suas imperfeições, é para fazê-lo com mais utilidade para vós e exercitar-vos por mais tempo na humildade”?",
+    "answer": "São Francisco de Sales.",
     "options": [
-      "São Francisco de Sales",
-      "Santa Catarina de Sena",
-      "São Luís Maria Grignion de Montfort",
-      "Santa Joana D’arc"
+      "São Francisco de Sales.",
+      "São Vicente de Paulo.",
+      "São João da Cruz.",
+      "Santo Afonso Maria de Ligório."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Se o vento das tentações se levanta, se o escolho das tribulações se interpõe em teu caminho, olha a estrela, invoca Maria.",
-    "answer": "São Bernardo",
+    "question": "Quem disse: “Se o vento das tentações se levanta, se o escolho das tribulações se interpõe em teu caminho, olha a estrela, invoca Maria”?",
+    "answer": "São Bernardo.",
     "options": [
-      "São Bernardo",
-      "Santo Antônio",
-      "São Francisco de Sales",
-      "São Domingos Sávio"
-    ]
-  },
-  {
-    "category": 4,
-    "categoryName": "Quem disse essa frase?",
-    "question": "Nada te perturbe, nada te espante, só Deus basta.",
-    "answer": "Santa Teresa D’Ávila",
-    "options": [
-      "Santa Teresa D’Ávila",
-      "São Felipe Neri",
-      "São João Bosco",
-      "Santa Teresa D’Ávila."
-    ]
-  },
-  {
-    "category": 4,
-    "categoryName": "Quem disse essa frase?",
-    "question": "Eu prefiro o paraíso",
-    "answer": "São Felipe Neri",
-    "options": [
-      "São Felipe Neri",
-      "Santa Teresinha",
       "São Bernardo.",
-      "São Bernardo"
+      "São Luís Maria Grignion de Montfort.",
+      "São Boaventura.",
+      "Santo Afonso Maria de Ligório."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "A vós meu coração se submete totalmente, porque te contemplando tudo desfalece.",
-    "answer": "Santo Tomás de Aquino",
+    "question": "Quem disse: “Nada te perturbe, nada te espante, só Deus basta”?",
+    "answer": "Santa Teresa d’Ávila.",
     "options": [
-      "Santo Tomás de Aquino",
-      "Santa Joana D’arc",
-      "São Felipe Neri",
-      "Santo Efrém"
+      "Santa Teresa d’Ávila.",
+      "Santa Teresa Benedita da Cruz.",
+      "Santa Teresinha.",
+      "Santa Catarina de Sena."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Tu és o Cristo, o filho do Deus vivo.",
-    "answer": "São Pedro",
+    "question": "Quem disse: “Eu prefiro o paraíso”?",
+    "answer": "São Filipe Néri.",
     "options": [
-      "São Pedro",
-      "São Domingos Sávio",
-      "São Pio X",
-      "Santo Agostinho"
+      "São Filipe Néri.",
+      "São Luís Gonzaga.",
+      "São João Bosco.",
+      "São Francisco de Sales."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Antes morrer que pecar.",
-    "answer": "São Domingos Sávio",
+    "question": "Quem disse: “A vós meu coração se submete totalmente, porque te contemplando tudo desfalece”?",
+    "answer": "Santo Tomás de Aquino.",
     "options": [
-      "São Domingos Sávio",
-      "Santa Teresa D’Ávila.",
-      "Monsenhor Lefebvre",
-      "Santo Tomás de Aquino"
+      "Santo Tomás de Aquino.",
+      "São Boaventura.",
+      "São Bernardo.",
+      "Santo Agostinho."
     ]
   },
   {
     "category": 4,
     "categoryName": "Quem disse essa frase?",
-    "question": "Se fores o que Deus quer, colocareis fogo no mundo.",
-    "answer": "Santa Catarina de Sena",
+    "question": "Quem disse: “Tu és o Cristo, o Filho do Deus vivo”?",
+    "answer": "São Pedro.",
     "options": [
-      "Santa Catarina de Sena",
-      "São Bernardo",
-      "São Domingos Sávio",
-      "São Luís Maria Grignion de Montfort"
+      "São Pedro.",
+      "São João Evangelista.",
+      "São Tomé.",
+      "São Paulo."
+    ]
+  },
+  {
+    "category": 4,
+    "categoryName": "Quem disse essa frase?",
+    "question": "Quem disse: “Antes morrer que pecar”?",
+    "answer": "São Domingos Sávio.",
+    "options": [
+      "São Domingos Sávio.",
+      "São Tarcísio.",
+      "São Gabriel da Virgem Dolorosa.",
+      "São Luís Gonzaga."
+    ]
+  },
+  {
+    "category": 4,
+    "categoryName": "Quem disse essa frase?",
+    "question": "Quem disse: “Se fores o que Deus quer, colocareis fogo no mundo”?",
+    "answer": "Santa Catarina de Sena.",
+    "options": [
+      "Santa Catarina de Sena.",
+      "Santa Teresa d’Ávila.",
+      "Santa Joana d’Arc.",
+      "Santa Brígida da Suécia."
     ]
   }
 ];
