@@ -10,7 +10,14 @@
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#" aria-label="Voltar ao início"><span class="brand-mark">X</span><span>Quizz São Pio X</span></a>
+    <a class="brand" href="#" aria-label="Quizz São Pio X — voltar ao início">
+      <svg class="brand-mark" viewBox="0 0 40 40" width="40" height="40" aria-hidden="true">
+        <circle cx="20" cy="20" r="18"></circle>
+        <circle class="brand-mark-inner" cx="20" cy="20" r="14.5"></circle>
+        <path d="M20 9v13M15 14h10M14.5 23.5l11 9M25.5 23.5l-11 9"></path>
+      </svg>
+      <span class="brand-copy"><strong>Quizz</strong><span>Festa de São Pio X</span></span>
+    </a>
   </header>
 
   <div class="page-shell">
@@ -26,7 +33,7 @@
           <fieldset><legend>Escolha uma categoria</legend><div class="category-grid" data-category-options></div></fieldset>
           <button class="primary home-start" type="button">Iniciar partida <span aria-hidden="true">→</span></button>
         </div>
-        <p class="footnote">100 perguntas em 5 temas · grátis e sem cadastro</p>
+        <p class="footnote">100 perguntas em 5 temas</p>
       </section>
 
       <section class="screen quiz-screen" data-screen="quiz" aria-live="polite">
