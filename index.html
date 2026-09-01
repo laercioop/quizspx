@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#34309a">
+  <meta name="theme-color" content="#865b3d">
   <meta name="description" content="Teste seus conhecimentos no Quizz Festa de São Pio X.">
   <title>Quizz Festa de São Pio X - 1ª Edição</title>
   <link rel="stylesheet" href="styles.css">
@@ -19,19 +19,19 @@
         <div class="welcome">
           <div class="edition">1ª EDIÇÃO · FESTA DE SÃO PIO X</div>
           <h1>Conhecimento, tradição e fé</h1>
-          <p>Escolha um tema, desafie a memória e descubra sua pontuação.</p>
+          <p>Escolha um tema e participe desta primeira edição do nosso desafio de conhecimentos.</p>
         </div>
         <div class="setup-panel">
           <fieldset><legend>Quantas perguntas?</legend><div class="segmented home-mode"><label><input type="radio" name="mode" value="10" checked><span><b>Rápido</b><small>10 perguntas</small></span></label><label><input type="radio" name="mode" value="20"><span><b>Completo</b><small>20 perguntas</small></span></label></div></fieldset>
           <fieldset><legend>Escolha uma categoria</legend><div class="category-grid" data-category-options></div></fieldset>
-          <button class="primary home-start" type="button">Começar quizz <span aria-hidden="true">→</span></button>
+          <button class="primary home-start" type="button">Iniciar partida <span aria-hidden="true">→</span></button>
         </div>
         <p class="footnote">100 perguntas em 5 temas · grátis e sem cadastro</p>
       </section>
 
       <section class="screen quiz-screen" data-screen="quiz" aria-live="polite">
-        <div class="quiz-meta"><button class="quit-button" type="button">← Sair</button><span class="question-count"></span><span class="score-live"></span></div>
-        <div class="progress-track" aria-hidden="true"><span></span></div>
+        <div class="quiz-meta"><button class="quit-button" type="button">← Sair</button><span class="question-count"></span><span class="score-live" aria-label="Placar atual"></span></div>
+        <div class="progress-track" role="progressbar" aria-label="Progresso da partida" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
         <div class="question-category"></div>
         <h2 class="question-text"></h2>
         <div class="answers" role="group" aria-label="Alternativas"></div>
@@ -39,7 +39,7 @@
         <button class="primary next-button" type="button" hidden>Próxima pergunta →</button>
       </section>
 
-      <section class="screen result-screen" data-screen="result">
+      <section class="screen result-screen" data-screen="result" aria-live="polite">
         <div class="result-seal" aria-hidden="true">★</div>
         <p class="result-kicker">Partida concluída</p>
         <h2 class="result-title"></h2>
